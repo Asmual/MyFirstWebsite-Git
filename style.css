@@ -1,0 +1,9 @@
+.container a{
+  font-size: 30px;
+  text-decoration: none;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: cadetblue;
+}
+.manu ul li{
+  list-style-type: none;
+}
